@@ -1,0 +1,41 @@
+"","clasific","tipo","frec"
+"1","acciones","1B",23
+"2","importe","1B",1
+"3","intercambio","1B",189
+"4","no_distribution","1B",1
+"5","otro","1B",1
+"6","pendiente_informar","1B",7
+"7","series","1B",33
+"8","tasa de cambio","1B",2
+"9","valor","1B",7
+"10","acciones","1E",13
+"11","dividendo","1E",1
+"12","importe","1E",14
+"13","intercambio","1E",12
+"14","otro","1E",11
+"15","pendiente_informar","1E",2
+"16","series","1E",3
+"17","tasa de cambio","1E",1
+"18","valor","1E",14
+"19","intercambio","41",3
+"20","series","41",6
+"21","tasa de cambio","41",1
+"22","valor","41",1
+"23","acciones","CF",1
+"24","importe","CF",18
+"25","intercambio","CF",89
+"26","otro","CF",4
+"27","series","CF",193
+"28","tasa de cambio","CF",1
+"29","valor","CF",102
+"30","intercambio","FE",4
+"31","series","FE",35
+"32","acciones","FF",1
+"33","importe","FF",1
+"34","intercambio","FF",9
+"35","series","FF",29
+"36","valor","FF",2
+"37","importe","FH",5
+"38","otro","FH",1
+"39","series","FH",11
+"40","valor","FH",4
